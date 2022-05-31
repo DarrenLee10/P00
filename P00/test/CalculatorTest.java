@@ -69,6 +69,7 @@ public class CalculatorTest {
 		int expected = 10816010;
 		assertEquals(expected, actual);
 		
+		
 	}
 	
 	@Test
@@ -85,6 +86,10 @@ public class CalculatorTest {
 		int expected = 0;
 		assertEquals(expected, actual);
 		
+		
+		
 	}
+	
+	
 
 }
